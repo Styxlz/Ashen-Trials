@@ -1,12 +1,13 @@
 {
 	"Name": "Ashen Trials",
-	"Version": 1773874858,
+	"Version": 1773876328,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
 		{
 			"Name": "General",
 			"SurvivorIndvPerkBans": [
+				"306",
 				"0",
 				"285",
 				"5",
@@ -35,6 +36,8 @@
 				"268",
 				"267",
 				"46",
+				"307",
+				"308",
 				"49",
 				"51",
 				"262",
