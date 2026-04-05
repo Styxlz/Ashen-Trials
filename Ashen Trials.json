@@ -1,6 +1,6 @@
 {
 	"Name": "Ashen Trials",
-	"Version": 1775349264,
+	"Version": 1775358733,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -1861,7 +1861,7 @@
 			"ItemWhitelist": [
 				10,
 				0,
-				4
+				5
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
