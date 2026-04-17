@@ -1,6 +1,6 @@
 {
 	"Name": "Ashen Trials",
-	"Version": 1775848466,
+	"Version": 1776397674,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -105,6 +105,7 @@
 				"244",
 				"168",
 				"171",
+				"173",
 				"174",
 				"175",
 				"299",
@@ -160,6 +161,7 @@
 			"SurvivorIndvPerkBans": [],
 			"KillerIndvPerkBans": [
 				"132",
+				"169",
 				"170",
 				"172",
 				"183",
@@ -180,7 +182,6 @@
 			"SurvivorIndvPerkBans": [
 				"21",
 				"34",
-				"36",
 				"38",
 				"279",
 				"280",
@@ -193,9 +194,11 @@
 				"109",
 				"253",
 				"121",
-				"127"
+				"127",
+				"36"
 			],
 			"KillerIndvPerkBans": [
+				"169",
 				"170",
 				"172",
 				"183",
