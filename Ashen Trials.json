@@ -1,6 +1,6 @@
 {
 	"Name": "Ashen Trials",
-	"Version": 1776397674,
+	"Version": 1776455804,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -3251,7 +3251,7 @@
 			"SurvivorOfferings": [
 				0,
 				2,
-				3
+				5
 			],
 			"KillerOfferings": [
 				5
