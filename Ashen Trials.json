@@ -1,6 +1,6 @@
 {
 	"Name": "Ashen Trials",
-	"Version": 1781295660,
+	"Version": 1781295737,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -2414,7 +2414,8 @@
 				554,
 				555,
 				557,
-				558
+				558,
+				553
 			],
 			"ItemWhitelist": [
 				0,
