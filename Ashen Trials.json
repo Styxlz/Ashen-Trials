@@ -1,6 +1,6 @@
 {
 	"Name": "Ashen Trials",
-	"Version": 1789492010,
+	"Version": 1791040636,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -154,6 +154,10 @@
 				[
 					"38",
 					"80"
+				],
+				[
+					"80",
+					"36"
 				]
 			],
 			"KillerComboPerkBans": [
@@ -2061,6 +2065,7 @@
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [
+				"132",
 				"142",
 				"208",
 				"212"
