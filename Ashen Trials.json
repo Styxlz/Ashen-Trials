@@ -1,6 +1,6 @@
 {
 	"Name": "Ashen Trials",
-	"Version": 1791952277,
+	"Version": 1792634955,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "",
 	"Tiers": [
@@ -391,10 +391,12 @@
 				"35"
 			],
 			"BalanceTiers": [
-				0
+				0,
+				2
 			],
 			"SurvivorBalanceTiers": [
-				0
+				0,
+				2
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
@@ -412,7 +414,8 @@
 			],
 			"ItemWhitelist": [
 				5,
-				0
+				0,
+				13
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
@@ -3800,20 +3803,24 @@
 			],
 			"ItemWhitelist": [
 				0,
-				9,
-				6
+				4,
+				7
 			],
 			"AddonWhitelist": {
 				"Firecracker": {
 					"Addons": []
 				},
 				"Flashlight": {
-					"Addons": []
+					"Addons": [
+						1,
+						2,
+						3,
+						4
+					]
 				},
 				"Med-Kit": {
 					"Addons": [
-						8,
-						11
+						0
 					]
 				},
 				"Toolbox": {
